@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781192583 source:c:\users\melky\onedrive\desktop\tarea 4\programa\programa loteria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
