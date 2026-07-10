@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1783528620 source:c:\users\melky\onedrive\desktop\tarea 6\leer csv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
