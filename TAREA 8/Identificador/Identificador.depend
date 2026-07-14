@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1784053345 source:c:\users\melky\onedrive\desktop\tarea 8\identificador\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<dirent.h>
+
