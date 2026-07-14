@@ -1,0 +1,3 @@
+Movimiento 1: mover disco 1 de A a B
+Movimiento 2: mover disco 2 de A a C
+Movimiento 3: mover disco 1 de B a C
