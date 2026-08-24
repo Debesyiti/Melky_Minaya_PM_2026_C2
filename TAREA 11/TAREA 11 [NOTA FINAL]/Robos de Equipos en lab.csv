@@ -1,0 +1,5 @@
+id,nombre,descripcion,area,F,S,P,E,A,V,I,D,C,Pb,ER,clasificacion
+1,"Robo de Equipos en lab","un laboratorio bacano","aulas",3,4,3,2,4,4,12,6,18,16,288,BAJO
+2,"robos de equipos en la uni","Un laboratorio de inform tica con 30 port tiles ubicado en el edificio de aulas del campus. El  rea queda sin vigilancia despu‚s de las 9:00 p.m. y las puertas solo tienen cerradura convencional.","universidad aulas",3,4,3,2,4,4,12,6,18,16,288,BAJO
+3,"Ataque de ransomware al servidor de una tienda en l¡nea","Empresa de comercio electr¢nico que opera en todo el pa¡s. Toda la facturaci¢n y la base de datos de clientes residen en un servidor propio, con respaldos semanales almacenados en la misma red local.","",5,4,5,4,4,4,20,20,40,16,640,NORMAL
+4,"Incendio en el almac‚n de combustible de una planta industrial","Incendio en ekl almacen de unas planta industria","Almacen y planta industrial",5,5,5,4,5,5,25,20,45,25,1125,MUY ALTO
